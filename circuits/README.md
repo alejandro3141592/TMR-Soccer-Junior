@@ -4,6 +4,7 @@ Here you can see some gifs of the results achieved with this code (we were the t
 
 ![Goal soccer](https://github.com/alejandro3141592/TMR-Soccer-Junior/assets/132953325/2d8c0385-22ec-40cd-8930-c57a26f3acd0)
 
-![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/alejandro3141592/TMR-Soccer-Junior/assets/132953325/c94e51b9-da9a-4d66-ac9e-ffad1ee9ae06)
+![Vídeo sin título ‐ Hecho con Clipchamp (1)](https://github.com/alejandro3141592/TMR-Soccer-Junior/assets/132953325/7dd40f43-f256-41bc-8b89-a17e0dbd0161)
+
 
 ![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/alejandro3141592/TMR-Soccer-Junior/assets/132953325/75e2abc2-3337-40c7-8dad-594ad616162c)
